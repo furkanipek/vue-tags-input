@@ -1,0 +1,13 @@
+{
+  "name": "vue-tags-inputs",
+  "version": "0.0.1",
+  "main": "Tags.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue2,vue.js,furkanipek,input tags component,tags"
+  ],
+  "author": "furkanipek | Furkan İ. developer@furkanipek.com.tr",
+  "license": "ISC"
+}
